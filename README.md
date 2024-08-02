@@ -13,6 +13,7 @@ Acesse meu projeto em: <a href="https://andrrade.github.io/projeto-local-turisti
 - Espaçamentos;
 - Listas desordenadas;
 - Alterações dos pesos dos textos;
+- Favicons;
 
 # 🚀 Tecnoogias Utilizadas
 
