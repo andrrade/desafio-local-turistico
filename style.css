@@ -50,9 +50,10 @@ h1 {
 .subtitle {
   font-style: italic;
   margin-top: 24px;
+  text-align: center;
 }
 
-main .headline{
+main .headline {
   margin-top: 64px;
 }
 
@@ -62,11 +63,12 @@ h2 {
   margin: 2px auto 8px;
 }
 
-#img1{
+#img1 {
   margin-top: 64px;
 }
 
-#img2, #img3{
+#img2,
+#img3 {
   margin-top: 48px;
 }
 
@@ -79,6 +81,11 @@ ol li {
   font-size: 28px;
   line-height: 38px;
   margin: 20px auto 4px;
+}
+
+ol {
+  margin: 0px;
+  padding: 0px;
 }
 
 ul {
@@ -111,19 +118,31 @@ ul li::marker {
 
 ul li {
   padding-left: 0px; /* Ajuste conforme necessário para recuar o texto */
+  list-style-position: outside;
 }
 
-#description{
+#description {
   margin-top: 40px;
+  text-align: center;
 }
 
-footer{
+header img {
+  height: 660px;
+  object-fit: cover;
+}
+
+main img {
+  height: 350px;
+  object-fit: cover; /* Ajusta a proporção da imagem para caber no container disponível pra ela sem distorcer */
+}
+
+footer {
   margin-bottom: 48px;
   line-height: 150%;
   text-align: center;
   font-family: "Alice", serif;
 }
 
-footer img{
+footer img {
   vertical-align: middle;
 }
