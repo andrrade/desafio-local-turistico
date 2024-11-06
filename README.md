@@ -1,5 +1,5 @@
 # Desafio Prático - Local Turístico
-Acesse meu projeto em: <a href="https://desafio-local-turistico.vercel.app/" target="_blank">https://andrrade.github.io/projeto-local-turistico/</a>
+Acesse meu projeto em: <a href="https://desafio-local-turistico.vercel.app/" target="_blank">https://desafio-local-turistico.vercel.app</a>
 <br><br>
 
 ![Local Turístico](https://github.com/user-attachments/assets/e79b1e13-c83d-4dcb-8a70-d88f95785a3d)
