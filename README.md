@@ -15,7 +15,7 @@ Acesse meu projeto em: <a href="https://desafio-local-turistico.vercel.app/" tar
 - Alterações dos pesos dos textos;
 - Favicons;
 
-# 🚀 Tecnoogias Utilizadas
+# 🚀 Tecnologias Utilizadas
 
 - HTML
 - CSS
