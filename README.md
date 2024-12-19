@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Desafio proposto pela Rocketseat na formação Fullstack nas aulas de Fundamentos CSS.
+  Desafio proposto pela Rocketseat nas aulas de Fundamentos CSS - Formação Fullstack.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
